@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="BM6_Template_Project:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/BM6_Template_Project_jar</output-path>
-    <root id="archive" name="BM6_Template_Project.jar">
-      <element id="module-output" name="BM6_Template_Project" />
-    </root>
-  </artifact>
-</component>

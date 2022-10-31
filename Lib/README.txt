@@ -1,1 +1,0 @@
-Please the BLuminEngine.jar to this folder and mark it in the git ignore

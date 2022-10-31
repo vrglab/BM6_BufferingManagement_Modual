@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BM6_BufferingManagement_Modual">
+    <output-path>$PROJECT_DIR$/out/artifacts/BM6_BufferingManagement_Modual</output-path>
+    <root id="archive" name="BM6_BufferingManagement_Modual.jar">
+      <element id="module-output" name="BM6_BufferingManagement_Modual" />
+    </root>
+  </artifact>
+</component>
